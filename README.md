@@ -12,7 +12,6 @@ Sistema embarcado de controle automático de vazão e nível de um tanque, desen
 - Controlador PID de vazão implementado em bare metal no ATmega328P
 - Monitoramento de nível via sensor ultrassônico HC-SR04
 - Ajuste dos parâmetros Kp, Ki e Kd pelo encoder rotativo com menu no LCD 16x2
-- Ajuste remoto de Kp, Ki e Kd pela interface gráfica Blynk Cloud
 - Acionamento de bomba d'água (TIP30C) e servomotor com engrenagem para controle de válvula
 - Dashboard web em tempo real com valores dos sensores, erro e termos PID
 - Peças mecânicas (suporte servo, engrenagens, base) modeladas no Inventor e impressas em 3D
