@@ -1,7 +1,6 @@
 /**
  * PROJETO FINAL: Controle de Tanque Baremetal 
  * FUSÃO: PID (Tiers) + Bomba/Ultrassom + LCD/Encoder + Telemetria ESP32
- * DESENVOLVIDO POR: André
  */
 typedef __UINT8_TYPE__ uint8_t;
 typedef __UINT16_TYPE__ uint16_t;
